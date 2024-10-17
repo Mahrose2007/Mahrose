@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mahrose Technologywali - Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <nav>
+        <h1>Mahrose Technologywali</h1>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#blog">Blog</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <div class="profile">
+        <img src="image1.png" alt="Mahrose Technologywali" class="profile-pic">
+        <h2>Hello, I’m Mahrose Technologywali</h2>
+        <p>Passionate Technologist | Aspiring Entrepreneur | Content Creator</p>
+        <a href="#contact" class="cta-button">Get in Touch</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        I’m a technology enthusiast with a passion for innovation and creating solutions that impact lives. Currently a student at Rehan School, Munawwar Campus, I’m constantly exploring new ideas and working on projects that align with my vision of a better, tech-driven future.
+      </p>
+    </div>
+  </section>
+
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project-card">
+        <h3>Super Sitaray (YouTube Channel)</h3>
+        <p>A platform for educational content focused on kids, featuring songs, activities, and fun learning experiences.</p>
+      </div>
+      <div class="project-card">
+        <h3>Nayi Duniya (Startup Idea)</h3>
+        <p>A visionary project aiming to build a platform similar to Google, leveraging AI to help people and transform digital experiences.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="blog">
+    <div class="container">
+      <h2>Blog</h2>
+      <p>Stay tuned for my latest thoughts on technology, AI, content creation, and life as a student at Rehan School.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>If you’d like to connect, feel free to reach out via email or follow me on my social media channels.</p>
+      <a href="mailto:example@example.com" class="contact-button">Send Email</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Mahrose Technologywali. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
